@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/libit/static/css/main.be248597.css",
+    "main.js": "/libit/static/js/main.41cf337f.js",
+    "static/js/453.3e51356a.chunk.js": "/libit/static/js/453.3e51356a.chunk.js",
+    "index.html": "/libit/index.html",
+    "main.be248597.css.map": "/libit/static/css/main.be248597.css.map",
+    "main.41cf337f.js.map": "/libit/static/js/main.41cf337f.js.map",
+    "453.3e51356a.chunk.js.map": "/libit/static/js/453.3e51356a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be248597.css",
+    "static/js/main.41cf337f.js"
+  ]
+}
